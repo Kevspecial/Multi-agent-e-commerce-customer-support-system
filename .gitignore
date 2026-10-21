@@ -14,6 +14,7 @@ __pycache__/
 .env
 .env.*
 !.env.example
+!.env.populated
 
 # ─────────────────────────────────────────────
 # Claude Code session data
